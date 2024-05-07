@@ -5,14 +5,18 @@
     "dark": "/logo/bookmarker-icon.svg",
     "light": "/logo/bookmarker-icon.svg"
   },
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
+  },  
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
-    "light": "#07C983",
+    "light": "#DC3D3D",
     "dark": "#0D9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#DC3D3D",
+      "to": "#FF5252"
     }
   },
   "topbarLinks": [
@@ -29,7 +33,7 @@
     {
       "name": "Website",
       "icon": "globe",
-      "url": "https://bookmarker.framer.site"
+      "url": "https://bookmarker.framer.website"
     },
     {
       "name": "Support",
@@ -52,7 +56,8 @@
       "group": "Getting Started",
       "pages": [
         "introduction",
-        "quickstart"
+        "bookmarking",
+        "tips"
       ]
     },
     {
