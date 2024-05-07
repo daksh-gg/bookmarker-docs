@@ -25,61 +25,50 @@
     "name": "Add App",
     "url": "https://discord.com/application-directory/935447281929449532"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Website",
+      "icon": "globe",
+      "url": "https://bookmarker.framer.site"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Support",
+      "icon": "Discord",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Contact Form",
+      "icon": "list",
+      "url": "https://tally.so/r/w7q1EA/"
+    },
+    {
+      "name": "Github",
+      "icon": "Github",
+      "url": "https://github.com/Squidtoon99/bookmark-bot"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Features",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "features/colour-change",
+        "features/refresh",
+        "features/repost",
+        "features/notes"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Other",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "docs/privacy-policy",
+        "docs/terms-of-service"
       ]
     }
   ],
