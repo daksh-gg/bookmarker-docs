@@ -34,7 +34,7 @@
     {
       "name": "Support",
       "icon": "Discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://discord.gg/ytSc5Pz3te"
     },
     {
       "name": "Contact Form",
@@ -58,6 +58,7 @@
     {
       "group": "Features",
       "pages": [
+        "features/core",
         "features/colour-change",
         "features/refresh",
         "features/repost",
@@ -73,8 +74,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "discord": "https://discord.gg/ytSc5Pz3te",
+    "github": "https://github.com/Squidtoon99/bookmark-bot"
   }
 }
