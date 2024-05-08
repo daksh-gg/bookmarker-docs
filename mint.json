@@ -9,7 +9,7 @@
     "default": "dark",
     "isHidden": true
   },  
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/bookmarker-icon.svg",
   "colors": {
     "primary": "#FF5252",
     "light": "#DC3D3D",
